@@ -1,4 +1,4 @@
-# Ev Fiyat Tahmini Makine Öğrenmesi Projesi
+# Ev Fiyat Tahmini Makine Öğrenmesi Projesi - Örnek Context Engineering Şablonu! Kendinize göre özelleştirebilirsiniz proje yapınıza göre.
 
 Bu proje, sağlanan bir veri setini kullanarak ev fiyatlarını tahmin eden bir makine öğrenmesi modeli geliştirmeyi amaçlamaktadır. Proje, veri bilimi yaşam döngüsünün tüm aşamalarını kapsayan sistematik bir yaklaşımla tasarlanmıştır: veri toplama, keşifsel veri analizi (EDA), veri ön işleme, özellik mühendisliği, model seçimi, eğitim, değerlendirme ve raporlama.
 
