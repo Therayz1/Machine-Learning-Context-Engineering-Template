@@ -100,5 +100,5 @@ Bu proje açık kaynaklıdır ve katkılarınıza açıktır. Her türlü geri b
 
 ---
 
-**Manus AI tarafından otomatik olarak oluşturulmuştur.**
+**ERAY COŞKUN tarafından otomatik olarak oluşturulmuştur.**
 
